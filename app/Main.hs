@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Lib (sky_info_main)
 
 main :: IO ()
-main = someFunc
+main = sky_info_main

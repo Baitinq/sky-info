@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       Lib
+      Logic
   other-modules:
       Paths_sky_info
   hs-source-dirs:
