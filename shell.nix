@@ -4,5 +4,7 @@ pkgs.mkShell {
     ghc
     cabal-install
     stack
+  
+    haskell-language-server
   ];
 }
